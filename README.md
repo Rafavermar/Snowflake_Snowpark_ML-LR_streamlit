@@ -1,4 +1,4 @@
-# Anaconda-Snowflake Integration for Data Analytics
+# Integrating Anaconda, Snowflake, Snowpark, and Streamlit for Advanced Analytics and basic ML
 
 This repository contains the customized code and documentation for setting up and integrating Anaconda, Snowflake, Snowpark, and Streamlit to create advanced data applications based on the Official Snowflake Quickstart performed by the hand of [Rafa Caballero](https://www.linkedin.com/in/ACoAABK28s4B8jxVi6edODzQinn3lf42S9tUuHk?lipi=urn%3Ali%3Apage%3Ad_flagship3_detail_base%3Be%2BHr71yPRYSU7sUUm8IRCQ%3D%3D)
 
